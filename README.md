@@ -1,9 +1,11 @@
-Weternity
+<p align="center">
+  <img src="res/head.png" alt="Weternity"/>
+</p>
 
-This is the core source code for the beta version of Weternity society&platform.
+# [Weternity][BH_DOMAIN] – Society
 
-Supported Systems
+This is the core source code for the beta version of Weternity society&Platform.
 
-Windows 10
-
-Mac OS X 10.14
+## Website
+[//]: # (LINKS)
+[BH_DOMAIN]: https://blackhole.run/
