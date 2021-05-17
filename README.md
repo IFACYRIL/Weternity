@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="res/LOGO-WEv1.png" alt="Weternity"/>
+  <img src="res/head.png" alt="Weternity"/>
 </p>
 
 # [Weternity][BH_DOMAIN] – Society
