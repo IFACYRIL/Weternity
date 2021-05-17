@@ -8,4 +8,4 @@ This is the core source code for the beta version of Weternity society&Platform.
 
 ## Website
 [//]: # (LINKS)
-[BH_DOMAIN]: https://blackhole.run/
+[BH_DOMAIN]: https://www.weternity.io/
